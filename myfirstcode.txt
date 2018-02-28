@@ -1,1 +1,5 @@
+Hi This is new change from DEV2
+
+Hello everyone
+
 This is my first code file.
